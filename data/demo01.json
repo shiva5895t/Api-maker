@@ -1,1 +1,16 @@
-
+{
+  "data": [
+    {
+      "number": "9876543210",
+      "name": "Rahul Sharma",
+      "address": "Delhi",
+      "email": "rahul@example.com"
+    },
+    {
+      "number": "9123456789",
+      "name": "Priya Verma",
+      "address": "Mumbai",
+      "email": "priya@example.com"
+    }
+  ]
+}
